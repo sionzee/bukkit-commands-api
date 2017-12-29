@@ -1,0 +1,302 @@
+<root>
+    <item name='org.bukkit.plugin.PluginManager org.bukkit.plugin.Plugin getPlugin(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void removePermission(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void removePermission(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void addPermission(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader org.bukkit.plugin.Plugin loadPlugin(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager java.util.Set&lt;org.bukkit.permissions.Permissible&gt; getPermissionSubscriptions(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.RegisteredServiceProvider int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager org.bukkit.plugin.Plugin[] loadPlugins(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager boolean isPluginEnabled(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void enablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager java.util.Set&lt;org.bukkit.permissions.Permission&gt; getPermissions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority Highest'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager org.bukkit.permissions.Permission getPermission(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager org.bukkit.plugin.Plugin getPlugin(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void unsubscribeFromPermission(java.lang.String, org.bukkit.permissions.Permissible) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.RegisteredServiceProvider int compareTo(org.bukkit.plugin.RegisteredServiceProvider&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoadOrder POSTWORLD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader java.util.Map&lt;java.lang.Class&lt;? extends org.bukkit.event.Event&gt;,java.util.Set&lt;org.bukkit.plugin.RegisteredListener&gt;&gt; createRegisteredListeners(org.bukkit.event.Listener, org.bukkit.plugin.Plugin)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerEvents(org.bukkit.event.Listener, org.bukkit.plugin.Plugin) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader org.bukkit.plugin.PluginDescriptionFile getPluginDescription(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void callEvent(org.bukkit.event.Event) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader java.util.Map&lt;java.lang.Class&lt;? extends org.bukkit.event.Event&gt;,java.util.Set&lt;org.bukkit.plugin.RegisteredListener&gt;&gt; createRegisteredListeners(org.bukkit.event.Listener, org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority Lowest'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLogger PluginLogger(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.EventExecutor void execute(org.bukkit.event.Listener, org.bukkit.event.Event) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginLogger void log(java.util.logging.LogRecord) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority Low'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void addPermission(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerEvents(org.bukkit.event.Listener, org.bukkit.plugin.Plugin) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void removePermission(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.TimedRegisteredListener void callEvent(org.bukkit.event.Event) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void callEvent(org.bukkit.event.Event) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.Plugin java.io.InputStream getResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager org.bukkit.permissions.Permission getPermission(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority High'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager org.bukkit.plugin.Plugin loadPlugin(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager org.bukkit.plugin.Plugin[] loadPlugins(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority org.bukkit.plugin.ServicePriority[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void unsubscribeFromPermission(java.lang.String, org.bukkit.permissions.Permissible) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void addPermission(org.bukkit.permissions.Permission, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoadOrder org.bukkit.plugin.PluginLoadOrder[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader void enablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void enablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager org.bukkit.plugin.Plugin loadPlugin(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void removePermission(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager java.util.Set&lt;org.bukkit.permissions.Permission&gt; getPermissions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.ServicePriority Normal'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginAwareness.Flags org.bukkit.plugin.PluginAwareness.Flags[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager boolean isPluginEnabled(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerEvent(java.lang.Class&lt;? extends org.bukkit.event.Event&gt;, org.bukkit.event.Listener, org.bukkit.event.EventPriority, org.bukkit.plugin.EventExecutor, org.bukkit.plugin.Plugin, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void registerInterface(java.lang.Class&lt;? extends org.bukkit.plugin.PluginLoader&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.RegisteredListener void callEvent(org.bukkit.event.Event) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginAwareness.Flags UTF8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoadOrder STARTUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void disablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void subscribeToPermission(java.lang.String, org.bukkit.permissions.Permissible) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager void registerInterface(java.lang.Class&lt;? extends org.bukkit.plugin.PluginLoader&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginDescriptionFile PluginDescriptionFile(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginLoader void disablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.SimplePluginManager java.util.Set&lt;org.bukkit.permissions.Permissible&gt; getPermissionSubscriptions(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void disablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.plugin.PluginManager void subscribeToPermission(java.lang.String, org.bukkit.permissions.Permissible) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

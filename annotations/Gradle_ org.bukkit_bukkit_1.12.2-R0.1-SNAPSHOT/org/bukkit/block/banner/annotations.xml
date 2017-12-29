@@ -1,0 +1,125 @@
+<root>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType CROSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType MOJANG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType DIAGONAL_LEFT_MIRROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType HALF_VERTICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType HALF_HORIZONTAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType TRIANGLES_BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_DOWNLEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType HALF_HORIZONTAL_MIRROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType FLOWER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_DOWNRIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType TRIANGLES_TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType org.bukkit.block.banner.PatternType[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType SQUARE_TOP_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRAIGHT_CROSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType SQUARE_TOP_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_SMALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType TRIANGLE_BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType BORDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType RHOMBUS_MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.Pattern Pattern(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType CURLY_BORDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType BRICKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType SQUARE_BOTTOM_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType DIAGONAL_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType GRADIENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType BASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType HALF_VERTICAL_MIRROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType DIAGONAL_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType SKULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType CREEPER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType GRADIENT_UP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType TRIANGLE_TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType DIAGONAL_RIGHT_MIRROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType CIRCLE_MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType SQUARE_BOTTOM_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.block.banner.PatternType STRIPE_CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

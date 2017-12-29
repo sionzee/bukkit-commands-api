@@ -1,0 +1,773 @@
+<root>
+    <item name='org.bukkit.material.Rails Rails(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Skull Skull(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MaterialData MaterialData(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door org.bukkit.Material getWoodDoorOfSpecies(org.bukkit.TreeSpecies)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood Wood(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.LongGrass LongGrass(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant.CocoaPlantSize SMALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Chest Chest(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.EnderChest EnderChest(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Mushroom Mushroom(org.bukkit.Material, org.bukkit.material.types.MushroomBlockTexture) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Ladder Ladder(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Gate org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Bed org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dispenser Dispenser(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MonsterEggs MonsterEggs(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sapling Sapling(org.bukkit.TreeSpecies, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dispenser void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Observer Observer(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TrapDoor TrapDoor(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Mushroom Mushroom(org.bukkit.Material, org.bukkit.material.types.MushroomBlockTexture) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sapling Sapling(org.bukkit.Material, org.bukkit.TreeSpecies) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs Stairs(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sandstone void setType(org.bukkit.SandstoneType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sapling Sapling(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Rails org.bukkit.block.BlockFace getDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DirectionalContainer DirectionalContainer(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TrapDoor void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sign Sign(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree org.bukkit.block.BlockFace getDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dye Dye(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Bed Bed(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops Crops(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Mushroom Mushroom(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.ExtendedRails ExtendedRails(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TexturedMaterial TexturedMaterial(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.FurnaceAndDispenser FurnaceAndDispenser(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper DEFAULT_DIRECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DetectorRail DetectorRail(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.ExtendedRails void setDirection(org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant CocoaPlant(org.bukkit.material.CocoaPlant.CocoaPlantSize) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper Hopper(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wool void setColor(org.bukkit.DyeColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Skull void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Observer Observer(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Lever void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonExtensionMaterial PistonExtensionMaterial(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PoweredRail PoweredRail(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonExtensionMaterial org.bukkit.block.BlockFace getAttachedFace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wool Wool(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MonsterEggs java.util.List&lt;org.bukkit.Material&gt; getTextures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.LongGrass void setSpecies(org.bukkit.GrassSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.NetherWarts NetherWarts(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PressurePlate PressurePlate(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.TreeSpecies, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Skull Skull(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops void setState(org.bukkit.CropState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves Leaves(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Coal void setType(org.bukkit.CoalType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Step java.util.List&lt;org.bukkit.Material&gt; getTextures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood void setSpecies(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.NetherWarts NetherWarts(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Button Button(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.RedstoneWire RedstoneWire(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode Diode(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Torch Torch(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.FurnaceAndDispenser FurnaceAndDispenser(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Furnace Furnace(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant.CocoaPlantSize org.bukkit.material.CocoaPlant.CocoaPlantSize[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs org.bukkit.block.BlockFace getDescendingDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dispenser Dispenser(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Lever Lever(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MaterialData org.bukkit.inventory.ItemStack toItemStack(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode DEFAULT_DIRECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SimpleAttachableMaterialData SimpleAttachableMaterialData(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Command Command(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.FlowerPot void setContents(org.bukkit.material.MaterialData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Step Step(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dye void setColor(org.bukkit.DyeColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Coal Coal(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.NetherWarts NetherWarts(org.bukkit.NetherWartsState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops Crops(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood DEFAULT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator Comparator(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sandstone Sandstone(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Furnace Furnace(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sapling Sapling(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Command Command(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Ladder void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonExtensionMaterial org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.NetherWarts org.bukkit.NetherWartsState getState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops DEFAULT_STATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonBaseMaterial org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PoweredRail PoweredRail(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.WoodenStep WoodenStep(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Cake Cake(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Gate void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.Material, org.bukkit.TreeSpecies) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.RedstoneTorch RedstoneTorch(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TexturedMaterial java.util.List&lt;org.bukkit.Material&gt; getTextures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.material.MonsterEggs MonsterEggs(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SimpleAttachableMaterialData SimpleAttachableMaterialData(org.bukkit.Material, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door org.bukkit.block.BlockFace getHingeCorner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.LongGrass LongGrass(org.bukkit.GrassSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.NetherWarts void setState(org.bukkit.NetherWartsState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonExtensionMaterial PistonExtensionMaterial(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode Diode(org.bukkit.block.BlockFace, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves Leaves(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Rails Rails(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Bed Bed(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DirectionalContainer DirectionalContainer(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Pumpkin Pumpkin(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.ExtendedRails ExtendedRails(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Mushroom Mushroom(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Coal Coal(org.bukkit.CoalType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Banner Banner(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode Diode(org.bukkit.block.BlockFace, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sign void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Torch void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Button void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Vine boolean isOnFace(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonBaseMaterial PistonBaseMaterial(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves DEFAULT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood Wood(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper Hopper(org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper Hopper(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Colorable void setColor(org.bukkit.DyeColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.material.Vine Vine(java.util.EnumSet&lt;org.bukkit.block.BlockFace&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Mushroom void setBlockTexture(org.bukkit.material.types.MushroomBlockTexture) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dye Dye(org.bukkit.DyeColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree DEFAULT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree void setDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DirectionalContainer void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Torch org.bukkit.block.BlockFace getAttachedFace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SpawnEgg void setSpawnedType(org.bukkit.entity.EntityType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonExtensionMaterial void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TrapDoor TrapDoor(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Pumpkin org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Ladder Ladder(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sandstone Sandstone(org.bukkit.SandstoneType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.LongGrass LongGrass(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.WoodenStep WoodenStep(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TripwireHook TripwireHook(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Chest Chest(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SmoothBrick java.util.List&lt;org.bukkit.Material&gt; getTextures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sandstone Sandstone(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SpawnEgg SpawnEgg(org.bukkit.entity.EntityType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant void setSize(org.bukkit.material.CocoaPlant.CocoaPlantSize) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DetectorRail DetectorRail(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dispenser Dispenser(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.EnderChest EnderChest(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Pumpkin Pumpkin(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves Leaves(org.bukkit.Material, org.bukkit.TreeSpecies) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper Hopper(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Banner Banner(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant.CocoaPlantSize LARGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs Stairs(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Vine void putOnFace(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Cake Cake(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door org.bukkit.Material getWoodDoorOfSpecies(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Rails void setDirection(org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator Comparator(org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MaterialData java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.material.Banner void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.RedstoneWire RedstoneWire(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SmoothBrick SmoothBrick(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.RedstoneTorch RedstoneTorch(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Observer org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.FlowerPot FlowerPot(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Observer void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood Wood(org.bukkit.Material, org.bukkit.TreeSpecies) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator Comparator(org.bukkit.block.BlockFace, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TripwireHook void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.DirectionalContainer org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Vine java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MaterialData org.bukkit.inventory.ItemStack toItemStack()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Directional void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.material.Mushroom Mushroom(org.bukkit.Material, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SmoothBrick SmoothBrick(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant org.bukkit.material.CocoaPlant.CocoaPlantSize getSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.FlowerPot FlowerPot(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.Material, org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Skull Skull(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonBaseMaterial PistonBaseMaterial(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wool Wool(org.bukkit.DyeColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Pumpkin void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops Crops(org.bukkit.Material, org.bukkit.CropState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops Crops(org.bukkit.CropState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree DEFAULT_DIRECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode Diode(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Stairs org.bukkit.block.BlockFace getAscendingDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.Material, org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops DEFAULT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Skull org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.TreeSpecies) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, org.bukkit.block.BlockFace, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Tree Tree(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves Leaves(org.bukkit.Material, org.bukkit.TreeSpecies, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator Comparator(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.WoodenStep WoodenStep(org.bukkit.TreeSpecies, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Step Step(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Crops Crops(org.bukkit.Material, org.bukkit.CropState) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant CocoaPlant(org.bukkit.material.CocoaPlant.CocoaPlantSize, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wool Wool(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Bed Bed(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PressurePlate PressurePlate(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dispenser org.bukkit.block.BlockFace getFacing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Hopper void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Pumpkin Pumpkin(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Button Button(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.PistonBaseMaterial void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Dye Dye(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator DEFAULT_DIRECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sign Sign(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.MaterialData MaterialData(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant CocoaPlant(org.bukkit.material.CocoaPlant.CocoaPlantSize, org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.SimpleAttachableMaterialData SimpleAttachableMaterialData(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Wood DEFAULT_SPECIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.TexturedMaterial TexturedMaterial(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Bed void setFacingDirection(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Torch Torch(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Comparator Comparator(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Lever Lever(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Sapling Sapling(org.bukkit.Material, org.bukkit.TreeSpecies, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant org.bukkit.block.BlockFace getAttachedFace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Diode Diode(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.TreeSpecies, org.bukkit.block.BlockFace, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Leaves Leaves(org.bukkit.TreeSpecies, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Door Door(org.bukkit.Material, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Observer Observer(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Coal Coal(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.CocoaPlant.CocoaPlantSize MEDIUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.Vine void removeFromFace(org.bukkit.block.BlockFace) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.WoodenStep DEFAULT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+<root>
+    <item name='org.bukkit.metadata.LazyMetadataValue.CacheStrategy CACHE_ETERNALLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.metadata.LazyMetadataValue.CacheStrategy NEVER_CACHE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.metadata.LazyMetadataValue.CacheStrategy org.bukkit.metadata.LazyMetadataValue.CacheStrategy[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.metadata.MetadataStoreBase void setMetadata(T, java.lang.String, org.bukkit.metadata.MetadataValue) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.metadata.MetadataValueAdapter owningPlugin'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.metadata.LazyMetadataValue.CacheStrategy CACHE_AFTER_FIRST_EVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

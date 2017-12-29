@@ -1,0 +1,8 @@
+<root>
+    <item name='org.bukkit.generator.ChunkGenerator boolean canSpawn(org.bukkit.World, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.generator.ChunkGenerator java.util.List&lt;org.bukkit.generator.BlockPopulator&gt; getDefaultPopulators(org.bukkit.World)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,62 @@
+<root>
+    <item name='org.bukkit.event.server.ServiceRegisterEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServerListPingEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.RemoteServerCommandEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.BroadcastMessageEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServiceUnregisterEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.PluginDisableEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServiceUnregisterEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServiceRegisterEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServerCommandEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.TabCompleteEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.RemoteServerCommandEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServerListPingEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.PluginDisableEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.PluginEnableEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.PluginEnableEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.BroadcastMessageEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.MapInitializeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.TabCompleteEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.ServerCommandEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.server.MapInitializeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

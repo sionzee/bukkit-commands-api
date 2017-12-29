@@ -1,0 +1,593 @@
+<root>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason REGEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ProjectileLaunchEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SheepRegrowWoolEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.VillagerAcquireTradeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason SPAWNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PlayerLeashEntityEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause FALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason REINFORCEMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason CURED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PigZapEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause CRAMMING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason NATURAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause VOID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier ARMOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPickupItemEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason WITHER_SPAWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause FALLING_BLOCK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason CHUNK_GEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier HARD_HAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent.UnleashReason org.bukkit.event.entity.EntityUnleashEvent.UnleashReason[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.FireworkExplodeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason COLLISION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason OCELOT_BABY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason TARGET_DIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause DRAGON_BREATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason DISPENSE_EGG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason DEFEND_VILLAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTameEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason INFECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason CLOSEST_ENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.HorseJumpEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PotionSplashEvent java.util.Collection&lt;org.bukkit.entity.LivingEntity&gt; getAffectedEntities()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityToggleGlideEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause STARVATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier BASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTeleportEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ExplosionPrimeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.AreaEffectCloudApplyEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent.UnleashReason DISTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ExplosionPrimeEvent ExplosionPrimeEvent(org.bukkit.entity.Explosive) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.LingeringPotionSplashEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause DROWNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause ENTITY_SWEEP_ATTACK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason BUILD_SNOWMAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent.PowerCause LIGHTNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.VillagerReplenishTradeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent.PowerCause SET_ON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityResurrectEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.AreaEffectCloudApplyEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason org.bukkit.event.entity.EntityTargetEvent.TargetReason[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDeathEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason TARGET_ATTACKED_NEARBY_ENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier RESISTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason REINFORCEMENT_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SlimeSplitEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent.PowerCause org.bukkit.event.entity.CreeperPowerEvent.PowerCause[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalExitEvent void setAfter(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent EntityDamageEvent(org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason CLOSEST_PLAYER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause SUFFOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason RANDOM_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent EntityDamageEvent(org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason BUILD_WITHER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause FLY_INTO_WALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EnderDragonChangePhaseEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason ENDER_PEARL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.FoodLevelChangeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemSpawnEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason EATING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalEnterEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason CUSTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier MAGIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityExplodeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier org.bukkit.event.entity.EntityDamageEvent.DamageModifier[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent.UnleashReason PLAYER_UNLEASH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityExplodeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SheepRegrowWoolEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageByBlockEvent EntityDamageByBlockEvent(org.bukkit.block.Block, org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityBreedEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause ENTITY_ATTACK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason CUSTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.FoodLevelChangeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalEnterEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EnderDragonChangePhaseEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageByBlockEvent EntityDamageByBlockEvent(org.bukkit.block.Block, org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause FIRE_TICK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTeleportEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason OWNER_ATTACKED_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause LAVA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause MAGIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PotionSplashEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason CUSTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason VILLAGE_DEFENSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemMergeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent.UnleashReason HOLDER_GONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent.UnleashReason UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason NETHER_PORTAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason ENDER_CRYSTAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason BUILD_IRONGOLEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason SATIATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.HorseJumpEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageByEntityEvent EntityDamageByEntityEvent(org.bukkit.entity.Entity, org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause HOT_FLOOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier BLOCKING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityCreatePortalEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityBreedEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityUnleashEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause PROJECTILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason PIG_ZOMBIE_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityShootBowEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemDespawnEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityCombustEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.VillagerReplenishTradeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityResurrectEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageModifier ABSORPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageByEntityEvent EntityDamageByEntityEvent(org.bukkit.entity.Entity, org.bukkit.entity.Entity, org.bukkit.event.entity.EntityDamageEvent.DamageCause, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,java.lang.Double&gt;, java.util.Map&lt;org.bukkit.event.entity.EntityDamageEvent.DamageModifier,? extends com.google.common.base.Function&lt;? super java.lang.Double,java.lang.Double&gt;&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause ENTITY_EXPLOSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason SILVERFISH_BLOCK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause BLOCK_EXPLOSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PlayerLeashEntityEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ProjectileLaunchEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SlimeSplitEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityChangeBlockEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason MOUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalExitEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause CONTACT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason WITHER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason MAGIC_REGEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.VillagerAcquireTradeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.LingeringPotionSplashEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause THORNS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemSpawnEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason EGG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason LIGHTNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause LIGHTNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause WITHER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityChangeBlockEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent.RegainReason MAGIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause org.bukkit.event.entity.EntityDamageEvent.DamageCause[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause POISON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ExpBottleEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTameEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason TEMPT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityInteractEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreeperPowerEvent.PowerCause SET_OFF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ExplosionPrimeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason SPAWNER_EGG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason TARGET_ATTACKED_OWNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.FireworkExplodeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ProjectileHitEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason BREEDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause MELTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause FIRE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPortalExitEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityAirChangeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason SLIME_SPLIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause CUSTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDeathEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PotionSplashEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SheepDyeWoolEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason TARGET_ATTACKED_ENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ExpBottleEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason TRAP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ProjectileHitEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemMergeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason SHOULDER_ENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityAirChangeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityCreatePortalEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityTargetEvent.TargetReason FORGOT_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason VILLAGE_INVASION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.CreatureSpawnEvent.SpawnReason JOCKEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityDamageEvent.DamageCause SUICIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.SheepDyeWoolEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.PigZapEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityPickupItemEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.ItemDespawnEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityShootBowEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityInteractEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityRegainHealthEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityToggleGlideEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.entity.EntityCombustEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

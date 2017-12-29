@@ -1,0 +1,200 @@
+<root>
+    <item name='org.bukkit.event.block.BlockFadeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.SignChangeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause LIGHTNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.LeavesDecayEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockGrowEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockDispenseEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPistonExtendEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause FIREBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockMultiPlaceEvent BlockMultiPlaceEvent(java.util.List&lt;org.bukkit.block.BlockState&gt;, org.bukkit.block.Block, org.bukkit.inventory.ItemStack, org.bukkit.entity.Player, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockFormEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockCanBuildEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockBurnEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockExpEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockRedstoneEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPlaceEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockExplodeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action RIGHT_CLICK_BLOCK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPistonExtendEvent BlockPistonExtendEvent(org.bukkit.block.Block, java.util.List&lt;org.bukkit.block.Block&gt;, org.bukkit.block.BlockFace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason BOTTLE_FILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPhysicsEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockSpreadEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason ARMOR_WASH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPistonRetractEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockDamageEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause FLINT_AND_STEEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause LAVA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action LEFT_CLICK_AIR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockFormEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockGrowEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action RIGHT_CLICK_AIR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason BANNER_WASH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause SPREAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason BUCKET_FILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.LeavesDecayEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockFromToEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason EVAPORATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause ENDER_CRYSTAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPistonExtendEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockDispenseEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason BUCKET_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action PHYSICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockExpEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockBurnEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockCanBuildEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPlaceEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action LEFT_CLICK_BLOCK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason EXTINGUISH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockFromToEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockRedstoneEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason BOTTLE_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.SignChangeEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockExplodeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.Action org.bukkit.event.block.Action[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockDamageEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockSpreadEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPhysicsEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockFadeEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause EXPLOSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason org.bukkit.event.block.CauldronLevelChangeEvent.ChangeReason[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockPistonRetractEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.block.BlockIgniteEvent.IgniteCause org.bukkit.event.block.BlockIgniteEvent.IgniteCause[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

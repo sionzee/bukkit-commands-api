@@ -1,0 +1,38 @@
+<root>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.PermissionDefault, org.bukkit.permissions.Permission) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(org.bukkit.permissions.Permission, org.bukkit.permissions.Permission) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.Permission) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.PermissionDefault, java.util.Map&lt;java.lang.String,java.lang.Boolean&gt;, org.bukkit.permissions.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.BroadcastPermissions org.bukkit.permissions.Permission registerPermissions(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.CommandPermissions org.bukkit.permissions.Permission registerPermissions(org.bukkit.permissions.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.PermissionDefault, java.util.Map&lt;java.lang.String,java.lang.Boolean&gt;, org.bukkit.permissions.Permission) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(org.bukkit.permissions.Permission, org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.CommandPermissions org.bukkit.permissions.Permission registerPermissions(org.bukkit.permissions.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.BroadcastPermissions org.bukkit.permissions.Permission registerPermissions(org.bukkit.permissions.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.permissions.DefaultPermissions org.bukkit.permissions.Permission registerPermission(java.lang.String, java.lang.String, org.bukkit.permissions.PermissionDefault, org.bukkit.permissions.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,86 @@
+<root>
+    <item name='org.bukkit.command.SimpleCommandMap knownCommands'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command org.bukkit.command.Command setAliases(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.CommandMap java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.Command void broadcastCommandMessage(org.bukkit.command.CommandSender, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command org.bukkit.command.Command setUsage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.SimpleCommandMap java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.CommandMap java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, org.bukkit.Location) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.SimpleCommandMap org.bukkit.command.Command getCommand(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.SimpleCommandMap java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, org.bukkit.Location) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.PluginCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.Command void broadcastCommandMessage(org.bukkit.command.CommandSender, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.PluginCommandYamlParser java.util.List&lt;org.bukkit.command.Command&gt; parse(org.bukkit.plugin.Plugin)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.CommandMap org.bukkit.command.Command getCommand(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.CommandMap boolean register(java.lang.String, org.bukkit.command.Command) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.SimpleCommandMap boolean register(java.lang.String, org.bukkit.command.Command) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command org.bukkit.command.Command setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command org.bukkit.command.Command setPermissionMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.Command java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[], org.bukkit.Location) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.CommandMap boolean register(java.lang.String, java.lang.String, org.bukkit.command.Command) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.PluginCommandYamlParser java.util.List&lt;org.bukkit.command.Command&gt; parse(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.SimpleCommandMap boolean register(java.lang.String, java.lang.String, org.bukkit.command.Command) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

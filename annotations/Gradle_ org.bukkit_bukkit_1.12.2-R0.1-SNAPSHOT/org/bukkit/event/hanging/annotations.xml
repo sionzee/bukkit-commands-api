@@ -1,0 +1,32 @@
+<root>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause org.bukkit.event.hanging.HangingBreakEvent.RemoveCause[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingPlaceEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause ENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause EXPLOSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingPlaceEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause OBSTRUCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.hanging.HangingBreakEvent.RemoveCause PHYSICS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

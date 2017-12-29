@@ -1,0 +1,92 @@
+<root>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions header(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfiguration void loadFromString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.ConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.ConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.YamlConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration loadConfiguration(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.MemoryConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.YamlConfigurationOptions header(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions copyHeader(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration void convertMapsToSections(java.util.Map&lt;?,?&gt;, org.bukkit.configuration.ConfigurationSection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions header(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration java.lang.String parseHeader(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.MemoryConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.YamlConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.YamlConfigurationOptions copyHeader(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration loadConfiguration(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.MemoryConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration COMMENT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions copyHeader(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.file.YamlConfigurationOptions indent(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.ConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration void loadFromString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfigurationOptions org.bukkit.configuration.ConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.MemoryConfigurationOptions copyDefaults(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.YamlConfiguration BLANK_CONFIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.file.FileConfigurationOptions org.bukkit.configuration.file.FileConfigurationOptions pathSeparator(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

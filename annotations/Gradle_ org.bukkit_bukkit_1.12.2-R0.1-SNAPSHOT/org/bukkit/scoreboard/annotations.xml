@@ -1,0 +1,68 @@
+<root>
+    <item name='org.bukkit.scoreboard.DisplaySlot BELOW_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Criterias TOTAL_KILLS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Criterias DEATHS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.Option org.bukkit.scoreboard.Team.Option[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.DisplaySlot PLAYER_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.NameTagVisibility NEVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.OptionStatus FOR_OTHER_TEAMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Criterias HEALTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.Option COLLISION_RULE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.OptionStatus org.bukkit.scoreboard.Team.OptionStatus[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Criterias PLAYER_KILLS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.DisplaySlot SIDEBAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.Option NAME_TAG_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.DisplaySlot org.bukkit.scoreboard.DisplaySlot[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.NameTagVisibility HIDE_FOR_OTHER_TEAMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.NameTagVisibility HIDE_FOR_OWN_TEAM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.NameTagVisibility ALWAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.Option DEATH_MESSAGE_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.OptionStatus ALWAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.NameTagVisibility org.bukkit.scoreboard.NameTagVisibility[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.OptionStatus FOR_OWN_TEAM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.scoreboard.Team.OptionStatus NEVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

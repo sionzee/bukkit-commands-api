@@ -1,0 +1,41 @@
+<root>
+    <item name='org.bukkit.plugin.java.JavaPlugin org.bukkit.plugin.java.JavaPlugin getProvidingPlugin(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader void disablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin org.bukkit.plugin.java.JavaPlugin getProvidingPlugin(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader void enablePlugin(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin T getPlugin(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin JavaPlugin(org.bukkit.plugin.java.JavaPluginLoader, org.bukkit.plugin.PluginDescriptionFile, java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin java.io.Reader getTextResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin org.bukkit.command.PluginCommand getCommand(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPlugin java.io.InputStream getResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader java.util.Map&lt;java.lang.Class&lt;? extends org.bukkit.event.Event&gt;,java.util.Set&lt;org.bukkit.plugin.RegisteredListener&gt;&gt; createRegisteredListeners(org.bukkit.event.Listener, org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader org.bukkit.plugin.Plugin loadPlugin(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader java.util.Map&lt;java.lang.Class&lt;? extends org.bukkit.event.Event&gt;,java.util.Set&lt;org.bukkit.plugin.RegisteredListener&gt;&gt; createRegisteredListeners(org.bukkit.event.Listener, org.bukkit.plugin.Plugin)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.plugin.java.JavaPluginLoader org.bukkit.plugin.PluginDescriptionFile getPluginDescription(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

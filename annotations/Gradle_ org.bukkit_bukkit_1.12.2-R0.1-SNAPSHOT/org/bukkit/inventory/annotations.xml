@@ -1,0 +1,299 @@
+<root>
+    <item name='org.bukkit.inventory.ItemFlag org.bukkit.inventory.ItemFlag[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(int, org.bukkit.material.MaterialData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.material.MaterialData, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property BURN_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_ID2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack void setType(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property BREW_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe java.util.Map&lt;java.lang.Character,org.bukkit.inventory.ItemStack&gt; getIngredientMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_UNBREAKABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MainHand org.bukkit.inventory.MainHand[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.material.MaterialData, float) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack ItemStack(org.bukkit.inventory.ItemStack) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_PLACED_ON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack ItemStack(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_ID1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack org.bukkit.inventory.ItemStack deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property TICKS_FOR_CURRENT_FUEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(int, org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property PRIMARY_EFFECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot LEGS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack void addEnchantment(org.bukkit.enchantments.Enchantment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack org.bukkit.inventory.ItemStack deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe java.util.List&lt;org.bukkit.inventory.ItemStack&gt; getIngredientList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MainHand LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_ATTRIBUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.material.MaterialData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_BUTTON1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_LEVEL3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(int, org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(org.bukkit.material.MaterialData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_ID3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack java.util.Map&lt;java.lang.String,java.lang.Object&gt; serialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(int, org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property TICKS_FOR_CURRENT_SMELTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe ShapelessRecipe(org.bukkit.inventory.ItemStack) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_BUTTON2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_ENCHANTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot HEAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.Material, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(int, org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.Material, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material, int, float) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_LEVEL2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack ItemStack(org.bukkit.Material, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack ItemStack(org.bukkit.Material, int, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot org.bukkit.inventory.EquipmentSlot[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.material.MaterialData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property COOK_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.Material) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot FEET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe org.bukkit.inventory.FurnaceRecipe setInput(org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_BUTTON3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(org.bukkit.Material, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_LEVEL1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe ShapedRecipe(org.bukkit.inventory.ItemStack) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot CHEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe ShapedRecipe(org.bukkit.NamespacedKey, org.bukkit.inventory.ItemStack) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.material.MaterialData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe ShapelessRecipe(org.bukkit.NamespacedKey, org.bukkit.inventory.ItemStack) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_DESTROYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MerchantRecipe void setIngredients(java.util.List&lt;org.bukkit.inventory.ItemStack&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(org.bukkit.material.MaterialData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack void addEnchantments(java.util.Map&lt;org.bukkit.enchantments.Enchantment,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(int, org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MainHand RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack ItemStack(org.bukkit.Material, int, short, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MerchantRecipe void addIngredient(org.bukkit.inventory.ItemStack) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe shape(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property SECONDARY_EFFECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.material.MaterialData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemFlag HIDE_POTION_EFFECTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(int, org.bukkit.material.MaterialData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.MerchantRecipe java.util.List&lt;org.bukkit.inventory.ItemStack&gt; getIngredients()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe addIngredient(int, org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack void addUnsafeEnchantments(java.util.Map&lt;org.bukkit.enchantments.Enchantment,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot OFF_HAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.EquipmentSlot HAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.FurnaceRecipe FurnaceRecipe(org.bukkit.inventory.ItemStack, org.bukkit.Material) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property org.bukkit.inventory.InventoryView.Property[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ItemStack org.bukkit.Material getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property ENCHANT_XP_SEED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe setIngredient(char, org.bukkit.material.MaterialData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property LEVELS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.InventoryView.Property REPAIR_COST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapedRecipe org.bukkit.inventory.ShapedRecipe shape(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.ShapelessRecipe org.bukkit.inventory.ShapelessRecipe removeIngredient(org.bukkit.Material)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

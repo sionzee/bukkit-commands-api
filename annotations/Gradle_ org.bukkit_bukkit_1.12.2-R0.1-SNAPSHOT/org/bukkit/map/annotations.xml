@@ -1,0 +1,86 @@
+<root>
+    <item name='org.bukkit.map.MapFont.CharacterSprite CharacterSprite(int, int, boolean[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapFont void setChar(char, org.bukkit.map.MapFont.CharacterSprite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapPalette byte[] imageToBytes(java.awt.Image)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type BLUE_POINTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MinecraftFont Font'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type RED_POINTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type MANSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale CLOSEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapPalette byte matchColor(java.awt.Color) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale FARTHEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale NORMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type WHITE_POINTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapFont int getWidth(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale org.bukkit.map.MapView.Scale[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type org.bukkit.map.MapCursor.Type[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type TEMPLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type WHITE_CIRCLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapPalette byte[] imageToBytes(java.awt.Image) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale FAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type SMALL_WHITE_CIRCLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapFont boolean isValid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type RED_MARKER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type WHITE_CROSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapView.Scale CLOSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor void setType(org.bukkit.map.MapCursor.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor MapCursor(byte, byte, byte, org.bukkit.map.MapCursor.Type, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapCursor.Type GREEN_POINTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.map.MapPalette java.awt.image.BufferedImage resizeImage(java.awt.Image)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

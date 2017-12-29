@@ -1,0 +1,67 @@
+group 'cz.sionzee.bukkit'
+version '0.0.1'
+
+buildscript {
+    ext.kotlin_version = '1.2.10'
+
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "gradle.plugin.ru.endlesscode.gradle:bukkit-gradle:0.3.5"
+    }
+
+
+}
+
+apply plugin: 'kotlin'
+apply plugin: 'ru.endlesscode.gradle.bukkit'
+
+bukkit {
+
+    // Attributes for plugin.yml
+    meta {
+        name = "\"CommandsAPI\""
+        description = "\"Yeah amazing plugin\""
+        main = "cz.sionzee.commandsapi.CommandsAPIPlugin"
+        version = "\"0.0.1\""
+        url = "\"http://www.sionzee.cz\"" // Attribute website
+        authors = ["sionzee"]
+    }
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+//    maven {
+//        name 'Spigot'
+//        url "https://hub.spigotmc.org/nexus/content/groups/public/" }
+//    maven {
+//        name 'BungeeCord'
+//        url 'https://oss.sonatype.org/content/repositories/snapshots'
+//    }
+
+}
+
+dependencies {
+//    compileOnly "org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT"
+
+    compileOnly "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compileOnly "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
+}
+
+jar {
+    from { configurations.compileOnly.collect { it.isDirectory() ? it : zipTree(it) } }
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}

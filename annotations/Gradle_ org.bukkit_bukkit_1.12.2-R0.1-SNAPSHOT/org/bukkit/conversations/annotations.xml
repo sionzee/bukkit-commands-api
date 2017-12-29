@@ -1,0 +1,143 @@
+<root>
+    <item name='org.bukkit.conversations.ValidatingPrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationCanceller org.bukkit.conversations.ConversationCanceller clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory thatExcludesNonPlayersWithMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.Conversation.ConversationState STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withEscapeSequence(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.PluginNameConversationPrefix PluginNameConversationPrefix(org.bukkit.plugin.Plugin, java.lang.String, org.bukkit.ChatColor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.InactivityConversationCanceller boolean cancelBasedOnInput(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.InactivityConversationCanceller org.bukkit.conversations.ConversationCanceller clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withInitialSessionData(java.util.Map&lt;java.lang.Object,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.Conversation buildConversation(org.bukkit.conversations.Conversable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.BooleanPrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.PluginNameConversationPrefix PluginNameConversationPrefix(org.bukkit.plugin.Plugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.InactivityConversationCanceller java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationCanceller boolean cancelBasedOnInput(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.Conversation.ConversationState ABANDONED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.Conversation.ConversationState org.bukkit.conversations.Conversation.ConversationState[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ManuallyAbandonedConversationCanceller boolean cancelBasedOnInput(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.RegexPrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withModality(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ExactMatchConversationCanceller boolean cancelBasedOnInput(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.NullConversationPrefix java.lang.String getPrefix(org.bukkit.conversations.ConversationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.Conversation.ConversationState UNSTARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withFirstPrompt(org.bukkit.conversations.Prompt)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.FixedSetPrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withLocalEcho(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.PlayerNamePrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ExactMatchConversationCanceller java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.NumericPrompt boolean isInputValid(org.bukkit.conversations.ConversationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory addConversationAbandonedListener(org.bukkit.conversations.ConversationAbandonedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.Conversation org.bukkit.conversations.Conversation.ConversationState getState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withConversationCanceller(org.bukkit.conversations.ConversationCanceller)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationAbandonedEvent ConversationAbandonedEvent(org.bukkit.conversations.Conversation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withTimeout(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationFactory org.bukkit.conversations.ConversationFactory withPrefix(org.bukkit.conversations.ConversationPrefix)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ExactMatchConversationCanceller org.bukkit.conversations.ConversationCanceller clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.conversations.ConversationPrefix java.lang.String getPrefix(org.bukkit.conversations.ConversationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.conversations.ConversationAbandonedEvent ConversationAbandonedEvent(org.bukkit.conversations.Conversation, org.bukkit.conversations.ConversationCanceller) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

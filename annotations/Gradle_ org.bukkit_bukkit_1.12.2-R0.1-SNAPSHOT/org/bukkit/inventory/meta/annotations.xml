@@ -1,0 +1,17 @@
+<root>
+    <item name='org.bukkit.inventory.meta.BookMeta.Generation TATTERED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.meta.BookMeta.Generation org.bukkit.inventory.meta.BookMeta.Generation[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.meta.BookMeta.Generation COPY_OF_ORIGINAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.meta.BookMeta.Generation COPY_OF_COPY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.inventory.meta.BookMeta.Generation ORIGINAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

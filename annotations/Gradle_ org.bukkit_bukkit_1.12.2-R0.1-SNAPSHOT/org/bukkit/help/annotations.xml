@@ -1,0 +1,38 @@
+<root>
+    <item name='org.bukkit.help.IndexHelpTopic java.lang.String buildIndexLine(org.bukkit.command.CommandSender, org.bukkit.help.HelpTopic) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator org.bukkit.help.HelpTopicComparator helpTopicComparatorInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator.TopicNameComparator int compare(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator int compare(org.bukkit.help.HelpTopic, org.bukkit.help.HelpTopic) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator.TopicNameComparator int compare(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator int compare(org.bukkit.help.HelpTopic, org.bukkit.help.HelpTopic) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.GenericCommandHelpTopic GenericCommandHelpTopic(org.bukkit.command.Command) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator org.bukkit.help.HelpTopicComparator.TopicNameComparator topicNameComparatorInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator.TopicNameComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.help.HelpTopicComparator.TopicNameComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

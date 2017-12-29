@@ -1,0 +1,26 @@
+<root>
+    <item name='org.bukkit.command.defaults.ReloadCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.defaults.PluginsCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.command.defaults.VersionCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.defaults.HelpCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.defaults.TimingsCommand java.util.List&lt;java.lang.String&gt; tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.command.defaults.HelpCommand org.bukkit.help.HelpTopic findPossibleMatches(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

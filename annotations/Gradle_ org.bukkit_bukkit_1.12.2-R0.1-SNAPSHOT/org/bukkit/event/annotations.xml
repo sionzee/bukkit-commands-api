@@ -1,0 +1,56 @@
+<root>
+    <item name='org.bukkit.event.EventPriority NORMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.HandlerList void unregister(org.bukkit.plugin.RegisteredListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority LOWEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority org.bukkit.event.EventPriority[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.HandlerList void registerAll(java.util.Collection&lt;org.bukkit.plugin.RegisteredListener&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.Event.Result org.bukkit.event.Event.Result[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.HandlerList java.util.ArrayList&lt;org.bukkit.plugin.RegisteredListener&gt; getRegisteredListeners(org.bukkit.plugin.Plugin)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.Event org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bukkit.event.Event.Result DENY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.HandlerList void register(org.bukkit.plugin.RegisteredListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority LOW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.Event.Result ALLOW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority HIGH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority HIGHEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.EventPriority MONITOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.HandlerList org.bukkit.plugin.RegisteredListener[] getRegisteredListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.Event.Result DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

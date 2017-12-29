@@ -1,0 +1,221 @@
+<root>
+    <item name='org.bukkit.util.StringUtil T copyPartialMatches(java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setY(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.entity.LivingEntity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector multiply(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector double distanceSquared(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector midpoint(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.StringUtil boolean startsWithIgnoreCase(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setZ(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle org.bukkit.util.EulerAngle setY(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMidpoint(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.entity.LivingEntity, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setY(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle org.bukkit.util.EulerAngle subtract(double, double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMidpoint(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle org.bukkit.util.EulerAngle setX(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector multiply(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector java.util.Map&lt;java.lang.String,java.lang.Object&gt; serialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setX(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMinimum(org.bukkit.util.Vector, org.bukkit.util.Vector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector midpoint(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector boolean isInAABB(org.bukkit.util.Vector, org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockVector org.bukkit.util.BlockVector deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector boolean isInSphere(org.bukkit.util.Vector, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getCrossProduct(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMinimum(org.bukkit.util.Vector, org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setX(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.BlockVector toBlockVector()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle ZERO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector double distance(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector double dot(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector multiply(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockVector BlockVector(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.Location toLocation(org.bukkit.World, float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle org.bukkit.util.EulerAngle setZ(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector multiply(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector normalize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMaximum(org.bukkit.util.Vector, org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.Location toLocation(org.bukkit.World)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector copy(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector divide(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector copy(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector crossProduct(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector subtract(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector divide(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMaximum(org.bukkit.util.Vector, org.bukkit.util.Vector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.ChatPaginator org.bukkit.util.ChatPaginator.ChatPage paginate(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector zero()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector crossProduct(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockVector org.bukkit.util.BlockVector deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.FileUtil boolean copy(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getRandom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector subtract(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.Location, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.World, org.bukkit.util.Vector, org.bukkit.util.Vector, double, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getCrossProduct(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector add(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setZ(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.ChatPaginator org.bukkit.util.ChatPaginator.ChatPage paginate(java.lang.String, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.StringUtil boolean startsWithIgnoreCase(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.EulerAngle org.bukkit.util.EulerAngle add(double, double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMaximum(org.bukkit.util.Vector, org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.Location, double, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector multiply(org.bukkit.util.Vector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.Location) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.BlockIterator BlockIterator(org.bukkit.World, org.bukkit.util.Vector, org.bukkit.util.Vector, double, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector setY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector add(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector float angle(org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.Vector org.bukkit.util.Vector getMinimum(org.bukkit.util.Vector, org.bukkit.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

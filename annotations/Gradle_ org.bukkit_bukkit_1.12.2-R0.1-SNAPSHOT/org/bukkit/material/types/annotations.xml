@@ -1,0 +1,44 @@
+<root>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_SOUTH_WEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_NORTH_WEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture org.bukkit.material.types.MushroomBlockTexture[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture ALL_CAP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture ALL_STEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_SOUTH_EAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_SOUTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_WEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture STEM_SIDES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture ALL_PORES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_EAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_NORTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.material.types.MushroomBlockTexture CAP_NORTH_EAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

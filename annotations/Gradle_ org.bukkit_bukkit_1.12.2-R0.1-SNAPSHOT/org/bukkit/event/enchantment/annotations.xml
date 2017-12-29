@@ -1,0 +1,20 @@
+<root>
+    <item name='org.bukkit.event.enchantment.PrepareItemEnchantEvent int[] getExpLevelCostsOffered()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.enchantment.EnchantItemEvent java.util.Map&lt;org.bukkit.enchantments.Enchantment,java.lang.Integer&gt; getEnchantsToAdd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.enchantment.EnchantItemEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.enchantment.EnchantItemEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.enchantment.PrepareItemEnchantEvent org.bukkit.event.HandlerList getHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.event.enchantment.PrepareItemEnchantEvent org.bukkit.event.HandlerList getHandlerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

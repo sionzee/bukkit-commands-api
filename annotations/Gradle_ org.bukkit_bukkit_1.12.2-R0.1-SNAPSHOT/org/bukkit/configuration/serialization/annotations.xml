@@ -1,0 +1,26 @@
+<root>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization org.bukkit.configuration.serialization.ConfigurationSerializable deserializeObject(java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization org.bukkit.configuration.serialization.ConfigurationSerializable deserializeViaCtor(java.lang.reflect.Constructor&lt;? extends org.bukkit.configuration.serialization.ConfigurationSerializable&gt;, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization void registerClass(java.lang.Class&lt;? extends org.bukkit.configuration.serialization.ConfigurationSerializable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization java.lang.String getAlias(java.lang.Class&lt;? extends org.bukkit.configuration.serialization.ConfigurationSerializable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization org.bukkit.configuration.serialization.ConfigurationSerializable deserializeViaMethod(java.lang.reflect.Method, java.util.Map&lt;java.lang.String,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerialization SERIALIZED_TYPE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.configuration.serialization.ConfigurationSerializable java.util.Map&lt;java.lang.String,java.lang.Object&gt; serialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

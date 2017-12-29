@@ -1,0 +1,47 @@
+<root>
+    <item name='org.bukkit.util.noise.PerlinNoiseGenerator PerlinNoiseGenerator(java.util.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.PerlinNoiseGenerator org.bukkit.util.noise.PerlinNoiseGenerator getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexOctaveGenerator SimplexOctaveGenerator(org.bukkit.World, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator double dot(int[], double, double, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.PerlinNoiseGenerator PerlinNoiseGenerator(org.bukkit.World) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator simplex'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator double dot(int[], double, double, double, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator SimplexNoiseGenerator(org.bukkit.World) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.NoiseGenerator perm'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.PerlinOctaveGenerator PerlinOctaveGenerator(org.bukkit.World, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator double dot(int[], double, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator grad4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.PerlinNoiseGenerator grad3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator org.bukkit.util.noise.SimplexNoiseGenerator getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.util.noise.SimplexNoiseGenerator SimplexNoiseGenerator(java.util.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommandsAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/CommandsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommandsAPI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CommandsAPI_main.iml" group="CommandsAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommandsAPI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CommandsAPI_test.iml" group="CommandsAPI" />
+    </modules>
+  </component>
+</project>

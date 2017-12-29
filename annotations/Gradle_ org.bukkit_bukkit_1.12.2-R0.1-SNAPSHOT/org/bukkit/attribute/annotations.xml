@@ -1,0 +1,62 @@
+<root>
+    <item name='org.bukkit.attribute.Attribute GENERIC_KNOCKBACK_RESISTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier.Operation MULTIPLY_SCALAR_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier java.util.Map&lt;java.lang.String,java.lang.Object&gt; serialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute ZOMBIE_SPAWN_REINFORCEMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute org.bukkit.attribute.Attribute[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_LUCK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier.Operation ADD_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_FLYING_SPEED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_MOVEMENT_SPEED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_ATTACK_DAMAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier.Operation ADD_SCALAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier org.bukkit.attribute.AttributeModifier deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier.Operation org.bukkit.attribute.AttributeModifier.Operation[] values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_ATTACK_SPEED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute HORSE_JUMP_STRENGTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_ARMOR_TOUGHNESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_MAX_HEALTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.AttributeModifier org.bukkit.attribute.AttributeModifier deserialize(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_FOLLOW_RANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bukkit.attribute.Attribute GENERIC_ARMOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
