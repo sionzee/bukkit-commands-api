@@ -16,10 +16,6 @@ object CommandsAPI {
 
     private val registeredCommands : IdentityHashMap<Class<Command>, Any> = IdentityHashMap()
 
-    init {
-
-    }
-
     /**
      * Registers @command in Bukkit interface
      */

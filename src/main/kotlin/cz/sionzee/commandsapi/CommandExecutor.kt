@@ -9,11 +9,17 @@ import cz.sionzee.commandsapi.interfaces.ICommand
 import org.bukkit.command.CommandSender
 import java.lang.reflect.Method
 
+/**
+ * CommandExecutor allows to execute Command
+ */
 class CommandExecutor(private val m_command: Command) {
 
     private var m_executing : Boolean = true
     private var m_continueInArg : Int = 0
 
+    /**
+     * Execute the command
+     */
     fun execute(sender: CommandSender, args: Array<out String>, command: ICommand): Boolean {
         m_continueInArg = 0
         m_executing = true

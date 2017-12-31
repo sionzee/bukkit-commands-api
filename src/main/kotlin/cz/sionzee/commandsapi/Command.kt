@@ -14,6 +14,9 @@ import org.bukkit.command.ConsoleCommandSender
 import org.bukkit.entity.Player
 import java.lang.reflect.Method
 
+/**
+ * This class is a base class for commands. All command classes will inherits from this class.
+ */
 abstract class Command : ICommand {
 
     private var m_sender: CommandSender? = null
@@ -27,26 +30,50 @@ abstract class Command : ICommand {
         @JvmName("args")
         get() = m_args
 
+    /**
+     * Returns argument by index based on current scope
+     */
     fun arg(index: Int): String = args[index]
 
+    /**
+     * Returns true if sender is player
+     */
     val isPlayer: Boolean
         get() = m_sender is Player
 
+    /**
+     * Returns true if sender is console
+     */
     val isConsole: Boolean
         get() = m_sender is ConsoleCommandSender
 
+    /**
+     * Returns true if sender is command block
+     */
     val isCommandBlock: Boolean
         get() = m_sender is BlockCommandSender
 
+    /**
+     * Returns sender
+     */
     val sender: CommandSender
         get() = m_sender as CommandSender
 
+    /**
+     * Returns sender as Console (its same as sender)
+     */
     val console: CommandSender
         get() = sender
 
+    /**
+     * Returns sender as Player
+     */
     val player: Player
         get() = m_player as Player
 
+    /**
+     * Returns sender as CommandBlock
+     */
     val commandBlock: CommandBlock
         get() = m_commandBlock as CommandBlock
 
@@ -57,25 +84,46 @@ abstract class Command : ICommand {
         return m_executor.execute(sender, args, this)
     }
 
+    /**
+     * Skip code execution to specific index
+     */
     fun continueInArg(index: Int) {
         return m_executor.continueInArg(index)
     }
 
+    /**
+     * Break execution of code, api will not look for another methods/classes
+     */
     fun breakExecution(): Boolean {
         return m_executor.breakExecution()
     }
 
+    /**
+     * Returns true if sender has a permission
+     */
     fun hasPermission(permission: String) = sender.hasPermission(permission)
 
+    /**
+     * Sends message to the sender
+     */
     fun sendMessage(message: String) = sender.sendMessage(message)
 
+    /**
+     * Join arguments by space separator and sends message to the sender
+     */
     fun sendMessage(vararg joiner: String) = sender.sendMessage(joiner.joinToString(" "))
 
+    /**
+     * Returns true if anyone of `requireArgument` returns true
+     */
     fun isAnyInvalidArgument(): Boolean {
         //TODO: Invalid arguments.size > 0
         return true
     }
 
+    /**
+     * Sends a player message about missing argument
+     */
     fun requireArgument(argumentIndex: Int, vararg joiner: String): Boolean {
         if (m_args.size > argumentIndex) return false
         //TODO: Add to invalid arguments
@@ -83,7 +131,11 @@ abstract class Command : ICommand {
         return true
     }
 
+    /**
+     * Sets overridable mapper
+     */
     internal fun setMapper(mapper: IArgumentMapper): Command {
+        this.m_mapper = mapper
         return this
     }
 
@@ -100,6 +152,7 @@ abstract class Command : ICommand {
                 sendMessage("Missing arguments [", missingArgs.withIndex().joinToString { method.parameters[it.index].name }, "]")
             }
             else -> {
+                //TODO: When is entered invalid parameter
                 methodArgs.withIndex().forEach {
                     val enteredValue = args[it.index]
                 }
@@ -112,5 +165,8 @@ abstract class Command : ICommand {
         sendMessage("There is no subcommand", subCommand, "in your entered command:", fullCommand)
     }
 
+    /**
+     * Returns overridable mapper
+     */
     open fun getMapper(): IArgumentMapper = m_mapper as IArgumentMapper
 }
