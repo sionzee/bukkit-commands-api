@@ -9,11 +9,15 @@ buildscript {
             url "https://plugins.gradle.org/m2/"
         }
         mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+
     }
 
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "gradle.plugin.ru.endlesscode.gradle:bukkit-gradle:0.3.5"
+        classpath 'com.github.jitpack:gradle-simple:1.0'
     }
 
 
@@ -38,6 +42,7 @@ bukkit {
 repositories {
     jcenter()
     mavenCentral()
+
 //    maven {
 //        name 'Spigot'
 //        url "https://hub.spigotmc.org/nexus/content/groups/public/" }
@@ -53,6 +58,7 @@ dependencies {
 
     compileOnly "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compileOnly "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
+
 }
 
 jar {
