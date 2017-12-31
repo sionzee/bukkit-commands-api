@@ -6,10 +6,10 @@
 
 Commands API for Bukkit plugins. Also for BungeeCord.
 ## What is CommandsAPI?
-Almost everyone plugin have commands and there is missing standard problem solving for these commands.
+Almost every plugin uses commands for managing features and itself. And there is many states what needs to be handled by developer.
 Example: When a player enter too many arguments or when player miss some arguments.
 Also if player is entered a correct argument (number, simple text, etc...)
-Otherwise when you created too many plugins, you did not like want to every time to register it in plugin.yml or look if command handles all states.
+Otherwise when you created too many plugins, you don't want to every time register it in plugin.yml or look if command handles all states.
 This API make everything easier.
 
 ## How to include CommandsAPI (Gradle, Maven, SBT, Leiningen)
@@ -18,8 +18,8 @@ Include this API via [JitPack repository](https://jitpack.io/#sionzeecz/bukkit-c
 
 ## Features
 * Not needed to register command in plugin.yml
-* Handling states when is arguments overgrowth or missing
-* Mapping string to object values (eg. string to Player)
+* Handling states when is argument overgrowth or missing
+* Mapping string to object (eg. string to Player)
 * Handling incorrect type of entered argument (number, string, pattern)
 * Supports BungeeCord
 
