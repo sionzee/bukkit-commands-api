@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package cz.sionzee.commandsapi
+package cz.sionzee.commandsapi.annotations
 
 @Target(AnnotationTarget.FUNCTION, AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)

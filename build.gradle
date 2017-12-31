@@ -10,14 +10,11 @@ buildscript {
         }
         mavenCentral()
         jcenter()
-        maven { url "https://jitpack.io" }
-
     }
 
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "gradle.plugin.ru.endlesscode.gradle:bukkit-gradle:0.3.5"
-        classpath 'com.github.jitpack:gradle-simple:1.0'
     }
 
 

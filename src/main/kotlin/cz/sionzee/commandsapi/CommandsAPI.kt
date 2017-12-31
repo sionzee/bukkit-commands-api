@@ -12,6 +12,9 @@ import org.bukkit.command.CommandSender
 import org.bukkit.plugin.SimplePluginManager
 import java.util.*
 
+/**
+ * CommandsAPI Instance for other plugins
+ */
 object CommandsAPI {
 
     private val registeredCommands : IdentityHashMap<Class<Command>, Any> = IdentityHashMap()

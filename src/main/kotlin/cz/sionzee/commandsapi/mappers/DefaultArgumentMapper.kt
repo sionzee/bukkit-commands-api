@@ -9,6 +9,9 @@ import org.bukkit.Bukkit
 import org.bukkit.entity.Player
 import java.util.*
 
+/**
+ * Open default mapper for commands
+ */
 open class DefaultArgumentMapper : IArgumentMapper {
     override fun init() {
         mapper.put(Player::class.java, { text : String -> Bukkit.getPlayer(text) } as IArgumentConverter<*>)

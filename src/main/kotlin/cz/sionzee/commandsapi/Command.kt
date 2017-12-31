@@ -3,6 +3,8 @@
  * All rights reserved.
  */
 
+@file:Suppress("unused", "MemberVisibilityCanPrivate", "PrivatePropertyName")
+
 package cz.sionzee.commandsapi
 
 import cz.sionzee.commandsapi.interfaces.ICommand
@@ -69,13 +71,13 @@ abstract class Command : ICommand {
      * Returns sender as Player
      */
     val player: Player
-        get() = m_player as Player
+        get() = if (isPlayer) m_player as Player else null!!
 
     /**
      * Returns sender as CommandBlock
      */
     val commandBlock: CommandBlock
-        get() = m_commandBlock as CommandBlock
+        get() = if (isCommandBlock) m_commandBlock as CommandBlock else null!!
 
     internal fun executeCommand(sender: CommandSender, args: Array<out String>): Boolean {
         this.m_sender = sender
@@ -140,6 +142,8 @@ abstract class Command : ICommand {
     }
 
     override fun onInvalidParameters(method: Method, args: Array<out String>) {
+        //TODO: Finish onInvalidParameters
+
         val methodArgs = method.parameters.map { it.type }.toTypedArray()
 
         when {
@@ -162,6 +166,7 @@ abstract class Command : ICommand {
     }
 
     override fun onInvalidSubcommand(subCommand: String, fullCommand: String) {
+        //TODO: Finish onInvalidSubcommand
         sendMessage("There is no subcommand", subCommand, "in your entered command:", fullCommand)
     }
 
