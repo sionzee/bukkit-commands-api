@@ -5,6 +5,7 @@
 
 package cz.sionzee.commandsapi
 
+import cz.sionzee.commandsapi.annotations.SubCommand
 import cz.sionzee.commandsapi.interfaces.ICommand
 import org.bukkit.command.CommandSender
 import java.lang.reflect.Method
@@ -96,6 +97,9 @@ class CommandExecutor(private val m_command: Command) {
     }
 
     companion object {
+        /**
+         * Copies values from @startIndex to @endIndex in array and in in illegal state it returns an empty array.
+         */
         inline fun <reified T> copyOfRange(startIndex : Int, endIndex : Int, array: Array<out T>) : Array<out T> {
 //        println("CopyOfRange from $startIndex to $endIndex in: ${array.joinToString()} RANGE IS ${endIndex - startIndex}")
             if(endIndex > array.indexSize) throw IllegalArgumentException("EndIndex > IndexSize")
@@ -110,18 +114,21 @@ class CommandExecutor(private val m_command: Command) {
     }
 
 
-
+    /**
+     * Break execution of code
+     */
     fun breakExecution(): Boolean {
         m_executing = false
         return true
     }
 
+    /**
+     * Skip execution to index of current scope
+     */
     fun continueInArg(index: Int) {
         m_continueInArg = index
     }
 }
-
-
 
 private fun Array<out Method>.getByName(methodName: String): Method? {
     this.iterator().forEach {

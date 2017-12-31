@@ -8,6 +8,9 @@ package cz.sionzee.commandsapi
 import java.lang.reflect.Field
 import javax.lang.model.element.Modifier
 
+/**
+ * Removes final modifier in field
+ */
 fun Field.removeFinalModifier() : Boolean {
     val modifiersField = Field::class.java.getDeclaredField("modifiers")
     modifiersField.isAccessible = true
@@ -16,12 +19,18 @@ fun Field.removeFinalModifier() : Boolean {
     return isFinal
 }
 
+/**
+ * Adds final modifier to field
+ */
 fun Field.restoreFinalModifier() {
     val modifiersField = Field::class.java.getDeclaredField("modifiers")
     modifiersField.isAccessible = true
     modifiersField.setInt(this, (this.modifiers and Modifier.FINAL.ordinal))
 }
 
+/**
+ * Returns value of field
+ */
 fun Any.getValueOfField(fieldName: String): Any? {
     var value : Any? = null
     val field : Field? = this.javaClass.getDeclaredField(fieldName)
@@ -35,9 +44,15 @@ fun Any.getValueOfField(fieldName: String): Any? {
     return value
 }
 
+/**
+ * Gets array indexSize
+ */
 val Array<out Any?>.indexSize
     get() = size - 1
 
+/**
+ * Converts string to primitive type
+ */
 fun String.convertToPrimitive(type: Class<*>): Any {
     return when(type.name) {
         "double" -> toDouble()
@@ -54,6 +69,9 @@ fun String.convertToPrimitive(type: Class<*>): Any {
     }
 }
 
+/**
+ * Returns true if string can be converted to primitive type
+ */
 fun String.canBeConvertedToPrimitive(type : Class<*>) : Boolean {
     return when(type.name) {
         "double" -> toDoubleOrNull() != null

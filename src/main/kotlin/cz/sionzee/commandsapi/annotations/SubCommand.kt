@@ -5,6 +5,9 @@
 
 package cz.sionzee.commandsapi.annotations
 
+/**
+ * SubCommand annotations which indicated subcommand function and class
+ */
 @Target(AnnotationTarget.FUNCTION, AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)
 @MustBeDocumented
