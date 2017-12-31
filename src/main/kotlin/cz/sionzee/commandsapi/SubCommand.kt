@@ -8,4 +8,4 @@ package cz.sionzee.commandsapi
 @Target(AnnotationTarget.FUNCTION, AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)
 @MustBeDocumented
-annotation class SubCommand
+annotation class SubCommand(val ignoreOvergrowthArgs : Boolean = false, val permission : String = "", val childPermission : String = "")

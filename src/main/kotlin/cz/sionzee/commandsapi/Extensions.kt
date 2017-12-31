@@ -35,7 +35,7 @@ fun Any.getValueOfField(fieldName: String): Any? {
     return value
 }
 
-val Array<out Any>.indexSize
+val Array<out Any?>.indexSize
     get() = size - 1
 
 fun String.convertToPrimitive(type: Class<*>): Any {

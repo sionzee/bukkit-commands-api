@@ -1,8 +1,9 @@
 package cz.sionzee.commandsapi.interfaces
 
-import sun.management.MethodInfo
+import java.lang.reflect.Method
 
 interface ICommand {
     fun onCommand(args : Array<out String>) : Boolean
-    fun onInvalidParameters(methodInfo: MethodInfo, args : Array<out String>)
+    fun onInvalidParameters(method: Method, args : Array<out String>)
+    fun onInvalidSubcommand(subCommand : String, fullCommand : String)
 }
