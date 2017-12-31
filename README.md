@@ -6,7 +6,7 @@
 
 Commands API for Bukkit plugins. Also for BungeeCord.
 ## What is CommandsAPI?
-Almost every plugin uses commands for managing features and itself. And there is many states what needs to be handled by developer.
+Almost every plugin uses commands for managing features and itself. And there are many states what needs to be handled by developer.
 Example: When a player enter too many arguments or when player miss some arguments.
 Also if player is entered a correct argument (number, simple text, etc...)
 Otherwise when you created too many plugins, you don't want to every time register it in plugin.yml or look if command handles all states.
