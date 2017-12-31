@@ -128,6 +128,14 @@ class CommandExecutor(private val m_command: Command) {
     fun continueInArg(index: Int) {
         m_continueInArg = index
     }
+
+    /**
+     * Returns a list of available sub-commands
+     */
+    fun getAvailableCommands(): List<String> {
+        //TODO: Add available commands
+        return listOf()
+    }
 }
 
 private fun Array<out Method>.getByName(methodName: String): Method? {

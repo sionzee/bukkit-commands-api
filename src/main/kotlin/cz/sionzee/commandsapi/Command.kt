@@ -116,6 +116,13 @@ abstract class Command : ICommand {
     fun sendMessage(vararg joiner: String) = sender.sendMessage(joiner.joinToString(" "))
 
     /**
+     * Returns all available commands
+     */
+    fun getAvailableCommands() : List<String> {
+        return m_executor.getAvailableCommands()
+    }
+
+    /**
      * Returns true if anyone of `requireArgument` returns true
      */
     fun isAnyInvalidArgument(): Boolean {
