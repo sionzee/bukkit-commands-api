@@ -1,11 +1,8 @@
 # Bukkit Commands API
--------
 [![Release](https://jitpack.io/v/sionzeecz/bukkit-commands-api.svg)](https://jitpack.io/#sionzeecz/bukkit-commands-api)
 [![Build Status](https://travis-ci.org/sionzeecz/bukkit-commands-api.svg?branch=master)](https://travis-ci.org/sionzeecz/bukkit-commands-api)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3b13a74e9a64e46997bde6eb589f3cf)](https://www.codacy.com/app/sionzeecz/bukkit-commands-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sionzeecz/bukkit-commands-api&amp;utm_campaign=Badge_Grade)
 [![Download Badge](https://jitpack.io/v/sionzeecz/bukkit-commands-api/total.svg)](https://jitpack.io/#sionzeecz/bukkit-commands-api)
-
-
 
 Commands API for Bukkit plugins. Also for BungeeCord.
 ## What is CommandsAPI?
@@ -17,7 +14,14 @@ This API make everything easier.
 
 ## How to include CommandsAPI (Gradle, Maven, SBT, Leiningen)
 Include this API via [JitPack repository](https://jitpack.io/#sionzeecz/bukkit-commands-api)
- 
+
+
+## Features
+* Not needed to register command in plugin.yml
+* Handling states when is arguments overgrowth or missing
+* Mapping string to object values (eg. string to Player)
+* Handling incorrect type of entered argument (number, string, pattern)
+* Supports BungeeCord
 
 ### Comparision
 Using Bukkit API
