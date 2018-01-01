@@ -1,6 +1,0 @@
-name: "CommandsAPI"
-description: "Yeah amazing plugin"
-main: cz.sionzee.commandsapi.CommandsAPIPlugin
-version: "0.0.1"
-website: "http://www.sionzee.cz"
-authors: [sionzee]
