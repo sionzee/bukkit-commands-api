@@ -16,8 +16,6 @@ plugins {
     id "org.jetbrains.kotlin.jvm" version "1.2.10"
     id "idea"
 
-    id "java-gradle-plugin"
-    id "com.gradle.plugin-publish" version "0.9.9"
     id "ru.endlesscode.bukkitgradle" version "0.7.0"
 }
 
