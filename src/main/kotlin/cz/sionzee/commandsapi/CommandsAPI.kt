@@ -52,6 +52,9 @@ object CommandsAPI {
         return false
     }
 
+    /**
+     * Sets the api from Bungee\Bukkit plugin
+     */
     fun setAPI(commandExecutor : ICommandsAPI) {
         m_commandExecutor = commandExecutor
     }

@@ -6,7 +6,6 @@
 package cz.sionzee.commandsapi
 
 import cz.sionzee.commandsapi.interfaces.ICommandsAPI
-import org.bukkit.Bukkit
 import org.bukkit.command.CommandMap
 import org.bukkit.command.CommandSender
 import org.bukkit.plugin.SimplePluginManager
@@ -18,15 +17,19 @@ object BukkitCommandsAPI : ICommandsAPI {
     private val m_plugin : JavaPlugin
         get() = temp as JavaPlugin
 
-
+    /**
+     * Inits the BukkitCommandsAPI
+     */
     fun init(plugin : JavaPlugin) {
         temp = plugin
         CommandsAPI.setAPI(this)
     }
 
-
+    /**
+     * Registers command with CommandsAPI
+     */
     override fun registerBaseCommand(commandName: String, command : BaseCommand) : Boolean {
-        val commandMap : CommandMap? = (Bukkit.getPluginManager() as SimplePluginManager).getValueOfField("commandMap") as CommandMap?
+        val commandMap : CommandMap? = (m_plugin.server.pluginManager as SimplePluginManager).getValueOfField("commandMap") as CommandMap?
         if(commandMap == null || commandMap.getCommand(commandName) != null) return false
 
         commandMap.register(commandName, object : org.bukkit.command.Command(commandName) {

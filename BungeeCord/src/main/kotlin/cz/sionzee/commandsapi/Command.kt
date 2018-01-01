@@ -3,11 +3,16 @@
  * All rights reserved.
  */
 
+@file:Suppress("MemberVisibilityCanPrivate", "unused")
+
 package cz.sionzee.commandsapi
 
 import net.md_5.bungee.api.CommandSender
 import net.md_5.bungee.api.connection.ProxiedPlayer
 
+/**
+ * This class is a base class for commands. All command classes will inherits from this class.
+ */
 abstract class Command : BaseCommand() {
 
     var m_sender : CommandSender? = null

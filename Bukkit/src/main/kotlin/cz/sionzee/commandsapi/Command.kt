@@ -3,6 +3,8 @@
  * All rights reserved.
  */
 
+@file:Suppress("PrivatePropertyName", "unused")
+
 package cz.sionzee.commandsapi
 
 import org.bukkit.block.CommandBlock
@@ -11,6 +13,9 @@ import org.bukkit.command.CommandSender
 import org.bukkit.command.ConsoleCommandSender
 import org.bukkit.entity.Player
 
+/**
+ * This class is a base class for commands. All command classes will inherits from this class.
+ */
 abstract class Command : BaseCommand() {
 
     private var m_sender: CommandSender? = null

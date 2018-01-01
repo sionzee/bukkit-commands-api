@@ -39,6 +39,9 @@ abstract class BaseCommand : ICommand {
      */
     abstract val isConsole: Boolean
 
+    /**
+     * Returns true if command was successfully executed
+     */
     abstract fun executeCommand(sender: Any, args: Array<out String>) : Boolean
 
     /**
