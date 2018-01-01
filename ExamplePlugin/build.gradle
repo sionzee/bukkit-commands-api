@@ -1,8 +1,17 @@
-plugins {
-    id "java"
-    id "idea"
-    id "ru.endlesscode.bukkitgradle"
+buildscript {
+
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "gradle.plugin.ru.endlesscode:bukkit-gradle:0.7.0"
+    }
 }
+
+apply plugin: 'java'
+apply plugin: "ru.endlesscode.bukkitgradle"
 
 group 'cz.sionzee.bukkit'
 version '0.0.2'
@@ -32,5 +41,4 @@ repositories {
 dependencies {
     compile project(":Bukkit")
     compile bukkit()
-    testCompile group: 'junit', name: 'junit', version: '4.12'
 }
