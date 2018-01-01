@@ -1,6 +1,6 @@
 .gradle/
 build/
-!build/libs/
+!build/libs/*.jar
 .idea/
 src/test/
 server/
