@@ -1,7 +1,7 @@
-/.gradle/
-/build/
-!/build/libs/
-/.idea/
+.gradle/
+build/
+!build/libs/
+.idea/
 src/test/
 server/
 
