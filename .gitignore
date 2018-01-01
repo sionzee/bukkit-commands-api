@@ -1,6 +1,10 @@
 .gradle/
 build/
 !build/libs/*.jar
+!BungeeCord/build/libs/*.jar
+!Bukkit/build/libs/*.jar
+!ExamplePlugin/build/libs/*.jar
+
 .idea/
 src/test/
 server/
