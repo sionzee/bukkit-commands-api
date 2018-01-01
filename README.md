@@ -1,4 +1,6 @@
-# Bukkit Commands API
+<p align="center"><img alt="CommandsAPI Logo" src="/logo.png?raw=true"/></p>
+
+-----
 [![Release](https://jitpack.io/v/sionzeecz/bukkit-commands-api.svg)](https://jitpack.io/#sionzeecz/bukkit-commands-api)
 [![Build Status](https://travis-ci.org/sionzeecz/bukkit-commands-api.svg?branch=master)](https://travis-ci.org/sionzeecz/bukkit-commands-api)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3b13a74e9a64e46997bde6eb589f3cf)](https://www.codacy.com/app/sionzeecz/bukkit-commands-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sionzeecz/bukkit-commands-api&amp;utm_campaign=Badge_Grade)
