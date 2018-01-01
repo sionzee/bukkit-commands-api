@@ -13,16 +13,28 @@ buildscript {
 }
 
 plugins {
-    id "org.jetbrains.kotlin.jvm" version "1.2.10"
+    id "org.jetbrains.kotlin.jvm"
     id "idea"
-    id "ru.endlesscode.bukkitgradle" version "0.7.0"
+    id "ru.endlesscode.bukkitgradle"
 }
 
-apply from: "jacoco.gradle"
-
 group 'cz.sionzee.bukkit'
-description "CommandsAPI for Bukkit interface"
 version '0.0.1'
+
+
+bukkit {
+    version = "1.12.2"
+
+    // Attributes for plugin.yml
+    meta {
+        name = "\"CommandsAPI\""
+        description = "\"Yeah amazing plugin\""
+        main = "cz.sionzee.commandsapi.CommandsAPIPlugin"
+        version = "\"0.0.1\""
+        url = "\"http://www.sionzee.cz\"" // Attribute website
+        authors = ["sionzee"]
+    }
+}
 
 repositories {
     jcenter()
@@ -30,6 +42,8 @@ repositories {
 }
 
 dependencies {
+    compile rootProject
+    compile bukkit()
     compileOnly "org.jetbrains.kotlin:kotlin-stdlib:1.2.10"
     compileOnly "org.jetbrains.kotlin:kotlin-reflect:1.2.10"
 }

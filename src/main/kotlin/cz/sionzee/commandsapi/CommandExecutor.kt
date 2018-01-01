@@ -1,5 +1,5 @@
 /*
- * Copyright © 2017 by Jan Trzicky, alias sionzee
+ * Copyright © 2018 by Jan Trzicky, alias sionzee
  * All rights reserved.
  */
 
@@ -7,13 +7,12 @@ package cz.sionzee.commandsapi
 
 import cz.sionzee.commandsapi.annotations.SubCommand
 import cz.sionzee.commandsapi.interfaces.ICommand
-import org.bukkit.command.CommandSender
 import java.lang.reflect.Method
 
 /**
  * CommandExecutor allows to execute Command
  */
-class CommandExecutor(private val m_command: Command) {
+class CommandExecutor(private val m_command: BaseCommand) {
 
     private var m_executing : Boolean = true
     private var m_continueInArg : Int = 0
@@ -21,7 +20,7 @@ class CommandExecutor(private val m_command: Command) {
     /**
      * Execute the command
      */
-    fun execute(sender: CommandSender, args: Array<out String>, command: ICommand): Boolean {
+    fun execute(sender: Any, args: Array<out String>, command: ICommand): Boolean {
         m_continueInArg = 0
         m_executing = true
         command.onCommand(args)
@@ -148,7 +147,7 @@ private fun Array<out Method>.getByName(methodName: String): Method? {
 
 private fun Array<out Class<*>>.getByName(className: String): Class<*>? {
     this.iterator().forEach {
-        if(it.getAnnotationsByType(SubCommand::class.java).isNotEmpty() && (Command::class.java.isAssignableFrom(it) || ICommand::class.java.isAssignableFrom(it)) && it.simpleName.equals(className, true))
+        if(it.getAnnotationsByType(SubCommand::class.java).isNotEmpty() && (BaseCommand::class.java.isAssignableFrom(it) || ICommand::class.java.isAssignableFrom(it)) && it.simpleName.equals(className, true))
             return it
     }
     return null

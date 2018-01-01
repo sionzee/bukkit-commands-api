@@ -1,0 +1,36 @@
+plugins {
+    id "java"
+    id "idea"
+    id "ru.endlesscode.bukkitgradle"
+}
+
+group 'cz.sionzee.bukkit'
+version '0.0.1'
+
+sourceCompatibility = 1.8
+
+
+bukkit {
+    version = "1.12.2"
+
+    // Attributes for plugin.yml
+    meta {
+        name = "\"CommandsAPITest\""
+        description = "\"Yeah amazing plugin\""
+        main = "cz.sionzee.commandsapi.ExamplePlugin"
+        version = "\"0.0.1\""
+        url = "\"http://www.sionzee.cz\"" // Attribute website
+        authors = ["sionzee"]
+    }
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    compile project(":Bukkit")
+    compile bukkit()
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

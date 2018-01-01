@@ -1,2 +1,5 @@
 rootProject.name = 'CommandsAPI'
+include 'BungeeCord'
+include 'Bukkit'
+include 'ExamplePlugin'
 

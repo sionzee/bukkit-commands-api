@@ -1,5 +1,5 @@
 /*
- * Copyright © 2017 by Jan Trzicky, alias sionzee
+ * Copyright © 2018 by Jan Trzicky, alias sionzee
  * All rights reserved.
  */
 

@@ -1,5 +1,5 @@
 /*
- * Copyright © 2017 by Jan Trzicky, alias sionzee
+ * Copyright © 2018 by Jan Trzicky, alias sionzee
  * All rights reserved.
  */
 
@@ -9,21 +9,13 @@ package cz.sionzee.commandsapi
 
 import cz.sionzee.commandsapi.interfaces.ICommand
 import cz.sionzee.commandsapi.mappers.IArgumentMapper
-import org.bukkit.block.CommandBlock
-import org.bukkit.command.BlockCommandSender
-import org.bukkit.command.CommandSender
-import org.bukkit.command.ConsoleCommandSender
-import org.bukkit.entity.Player
 import java.lang.reflect.Method
 
 /**
  * This class is a base class for commands. All command classes will inherits from this class.
  */
-abstract class Command : ICommand {
+abstract class BaseCommand : ICommand {
 
-    private var m_sender: CommandSender? = null
-    private var m_player: Player? = null
-    private var m_commandBlock: CommandBlock? = null
     private var m_args: Array<out String> = emptyArray()
     private var m_mapper: IArgumentMapper? = null
     private val m_executor: CommandExecutor = CommandExecutor(this)
@@ -40,51 +32,14 @@ abstract class Command : ICommand {
     /**
      * Returns true if sender is player
      */
-    val isPlayer: Boolean
-        get() = m_sender is Player
+    abstract val isPlayer: Boolean
 
     /**
      * Returns true if sender is console
      */
-    val isConsole: Boolean
-        get() = m_sender is ConsoleCommandSender
+    abstract val isConsole: Boolean
 
-    /**
-     * Returns true if sender is command block
-     */
-    val isCommandBlock: Boolean
-        get() = m_sender is BlockCommandSender
-
-    /**
-     * Returns sender
-     */
-    val sender: CommandSender
-        get() = m_sender as CommandSender
-
-    /**
-     * Returns sender as Console (its same as sender)
-     */
-    val console: CommandSender
-        get() = sender
-
-    /**
-     * Returns sender as Player
-     */
-    val player: Player
-        get() = if (isPlayer) m_player as Player else null!!
-
-    /**
-     * Returns sender as CommandBlock
-     */
-    val commandBlock: CommandBlock
-        get() = if (isCommandBlock) m_commandBlock as CommandBlock else null!!
-
-    internal fun executeCommand(sender: CommandSender, args: Array<out String>): Boolean {
-        this.m_sender = sender
-        this.m_player = if (isPlayer) sender as Player else null
-        this.m_commandBlock = if (isCommandBlock) (sender as BlockCommandSender).block as CommandBlock else null
-        return m_executor.execute(sender, args, this)
-    }
+    abstract fun executeCommand(sender: Any, args: Array<out String>) : Boolean
 
     /**
      * Skip code execution to specific index
@@ -103,17 +58,17 @@ abstract class Command : ICommand {
     /**
      * Returns true if sender has a permission
      */
-    fun hasPermission(permission: String) = sender.hasPermission(permission)
+    abstract fun hasPermission(permission: String) : Boolean
 
     /**
      * Sends message to the sender
      */
-    fun sendMessage(message: String) = sender.sendMessage(message)
+    abstract fun sendMessage(message: String)
 
     /**
      * Join arguments by space separator and sends message to the sender
      */
-    fun sendMessage(vararg joiner: String) = sender.sendMessage(joiner.joinToString(" "))
+    abstract fun sendMessage(vararg joiner: String)
 
     /**
      * Returns all available commands
@@ -143,7 +98,7 @@ abstract class Command : ICommand {
     /**
      * Sets overridable mapper
      */
-    internal fun setMapper(mapper: IArgumentMapper): Command {
+    internal fun setMapper(mapper: IArgumentMapper): BaseCommand {
         this.m_mapper = mapper
         return this
     }
