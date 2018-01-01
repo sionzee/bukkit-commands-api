@@ -5,7 +5,7 @@ plugins {
 }
 
 group 'cz.sionzee.bukkit'
-version '0.0.1'
+version '0.0.2'
 
 sourceCompatibility = 1.8
 
@@ -18,7 +18,7 @@ bukkit {
         name = "\"CommandsAPITest\""
         description = "\"Yeah amazing plugin\""
         main = "cz.sionzee.commandsapi.ExamplePlugin"
-        version = "\"0.0.1\""
+        version = "\"0.0.2\""
         url = "\"http://www.sionzee.cz\"" // Attribute website
         authors = ["sionzee"]
     }
