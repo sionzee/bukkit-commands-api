@@ -1,12 +1,23 @@
-plugins {
-    id "org.jetbrains.kotlin.jvm"
-    id "idea"
-    id "ru.endlesscode.bukkitgradle"
+buildscript {
+    ext.kotlin_version = '1.2.10'
+
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "gradle.plugin.ru.endlesscode:bukkit-gradle:0.7.0"
+    }
 }
+
+apply plugin: 'kotlin'
+apply plugin: "ru.endlesscode.bukkitgradle"
 
 group 'cz.sionzee.bukkit'
 version '0.0.2'
-
 
 bukkit {
     version = "1.12.2"

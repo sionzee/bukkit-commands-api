@@ -1,8 +1,15 @@
-plugins {
-    id "org.jetbrains.kotlin.jvm"
-    id "idea"
+buildscript {
+    ext.kotlin_version = '1.2.10'
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
 }
 
+apply plugin: 'kotlin'
 
 group 'cz.sionzee.bukkit'
 version '0.0.2'
@@ -15,8 +22,9 @@ repositories {
 
 dependencies {
     compile rootProject
-    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.10"
     compile "net.md-5:bungeecord-api:1.12-SNAPSHOT"
+    compileOnly "org.jetbrains.kotlin:kotlin-stdlib:1.2.10"
+    compileOnly "org.jetbrains.kotlin:kotlin-reflect:1.2.10"
 }
 
 compileKotlin {
