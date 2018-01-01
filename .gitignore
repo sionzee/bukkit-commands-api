@@ -1,5 +1,8 @@
 .gradle/
 build/
+Bukkit/build/
+BungeeCord/build/
+ExamplePlugin/build/
 !build/libs/*.jar
 !BungeeCord/build/libs/*.jar
 !Bukkit/build/libs/*.jar
